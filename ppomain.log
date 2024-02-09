@@ -1,0 +1,285 @@
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Eval num_timesteps=500, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 500      |
+---------------------------------
+New best mean reward!
+Eval num_timesteps=1000, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 1000     |
+---------------------------------
+Eval num_timesteps=1500, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 1500     |
+---------------------------------
+Eval num_timesteps=2000, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 2000     |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 167      |
+|    ep_rew_mean     | 2        |
+| time/              |          |
+|    fps             | 518      |
+|    iterations      | 1        |
+|    time_elapsed    | 3        |
+|    total_timesteps | 2048     |
+---------------------------------
+Eval num_timesteps=2500, episode_reward=-2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 42          |
+|    mean_reward          | -2          |
+| time/                   |             |
+|    total_timesteps      | 2500        |
+| train/                  |             |
+|    approx_kl            | 0.021655913 |
+|    clip_fraction        | 0.169       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -0.297      |
+|    explained_variance   | -0.165      |
+|    learning_rate        | 0.0003      |
+|    loss                 | 2.81        |
+|    n_updates            | 810         |
+|    policy_gradient_loss | -0.0161     |
+|    value_loss           | 5.47        |
+-----------------------------------------
+Eval num_timesteps=3000, episode_reward=-2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | -2       |
+| time/              |          |
+|    total_timesteps | 3000     |
+---------------------------------
+Eval num_timesteps=3500, episode_reward=-2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | -2       |
+| time/              |          |
+|    total_timesteps | 3500     |
+---------------------------------
+Eval num_timesteps=4000, episode_reward=-2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | -2       |
+| time/              |          |
+|    total_timesteps | 4000     |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 167      |
+|    ep_rew_mean     | 7.67     |
+| time/              |          |
+|    fps             | 315      |
+|    iterations      | 2        |
+|    time_elapsed    | 12       |
+|    total_timesteps | 4096     |
+---------------------------------
+Eval num_timesteps=4500, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+----------------------------------------
+| eval/                   |            |
+|    mean_ep_length       | 42         |
+|    mean_reward          | 0          |
+| time/                   |            |
+|    total_timesteps      | 4500       |
+| train/                  |            |
+|    approx_kl            | 0.02264063 |
+|    clip_fraction        | 0.157      |
+|    clip_range           | 0.2        |
+|    entropy_loss         | -0.317     |
+|    explained_variance   | 0.25       |
+|    learning_rate        | 0.0003     |
+|    loss                 | 2.72       |
+|    n_updates            | 820        |
+|    policy_gradient_loss | -0.0115    |
+|    value_loss           | 5.46       |
+----------------------------------------
+Eval num_timesteps=5000, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 5000     |
+---------------------------------
+Eval num_timesteps=5500, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 5500     |
+---------------------------------
+Eval num_timesteps=6000, episode_reward=0.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 0        |
+| time/              |          |
+|    total_timesteps | 6000     |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 167      |
+|    ep_rew_mean     | 11.8     |
+| time/              |          |
+|    fps             | 311      |
+|    iterations      | 3        |
+|    time_elapsed    | 19       |
+|    total_timesteps | 6144     |
+---------------------------------
+Eval num_timesteps=6500, episode_reward=4.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 42          |
+|    mean_reward          | 4           |
+| time/                   |             |
+|    total_timesteps      | 6500        |
+| train/                  |             |
+|    approx_kl            | 0.020368401 |
+|    clip_fraction        | 0.164       |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -0.322      |
+|    explained_variance   | 0.286       |
+|    learning_rate        | 0.0003      |
+|    loss                 | 3.68        |
+|    n_updates            | 830         |
+|    policy_gradient_loss | -0.0128     |
+|    value_loss           | 4.82        |
+-----------------------------------------
+New best mean reward!
+Eval num_timesteps=7000, episode_reward=4.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 4        |
+| time/              |          |
+|    total_timesteps | 7000     |
+---------------------------------
+Eval num_timesteps=7500, episode_reward=4.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 4        |
+| time/              |          |
+|    total_timesteps | 7500     |
+---------------------------------
+Eval num_timesteps=8000, episode_reward=4.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 4        |
+| time/              |          |
+|    total_timesteps | 8000     |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 167      |
+|    ep_rew_mean     | 17.7     |
+| time/              |          |
+|    fps             | 302      |
+|    iterations      | 4        |
+|    time_elapsed    | 27       |
+|    total_timesteps | 8192     |
+---------------------------------
+Eval num_timesteps=8500, episode_reward=2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+-----------------------------------------
+| eval/                   |             |
+|    mean_ep_length       | 42          |
+|    mean_reward          | 2           |
+| time/                   |             |
+|    total_timesteps      | 8500        |
+| train/                  |             |
+|    approx_kl            | 0.019936804 |
+|    clip_fraction        | 0.15        |
+|    clip_range           | 0.2         |
+|    entropy_loss         | -0.321      |
+|    explained_variance   | 0.363       |
+|    learning_rate        | 0.0003      |
+|    loss                 | 1.79        |
+|    n_updates            | 840         |
+|    policy_gradient_loss | -0.0128     |
+|    value_loss           | 3.99        |
+-----------------------------------------
+Eval num_timesteps=9000, episode_reward=2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 2        |
+| time/              |          |
+|    total_timesteps | 9000     |
+---------------------------------
+Eval num_timesteps=9500, episode_reward=2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 2        |
+| time/              |          |
+|    total_timesteps | 9500     |
+---------------------------------
+Eval num_timesteps=10000, episode_reward=2.00 +/- 0.00
+Episode length: 42.00 +/- 0.00
+---------------------------------
+| eval/              |          |
+|    mean_ep_length  | 42       |
+|    mean_reward     | 2        |
+| time/              |          |
+|    total_timesteps | 10000    |
+---------------------------------
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 167      |
+|    ep_rew_mean     | 22.1     |
+| time/              |          |
+|    fps             | 291      |
+|    iterations      | 5        |
+|    time_elapsed    | 35       |
+|    total_timesteps | 10240    |
+---------------------------------
+/root/qqqq/venv/lib/python3.8/site-packages/stable_baselines3/common/vec_env/patch_gym.py:49: UserWarning: You provided an OpenAI Gym environment. We strongly recommend transitioning to Gymnasium environments. Stable-Baselines3 is automatically wrapping your environments in a compatibility layer, which could potentially cause issues.
+  warnings.warn(
+/root/qqqq/venv/lib/python3.8/site-packages/stable_baselines3/common/vec_env/patch_gym.py:49: UserWarning: You provided an OpenAI Gym environment. We strongly recommend transitioning to Gymnasium environments. Stable-Baselines3 is automatically wrapping your environments in a compatibility layer, which could potentially cause issues.
+  warnings.warn(
+/root/qqqq/venv/lib/python3.8/site-packages/stable_baselines3/common/evaluation.py:67: UserWarning: Evaluation environment is not wrapped with a ``Monitor`` wrapper. This may result in reporting modified episode lengths and rewards, if other wrappers happen to modify these. Consider wrapping environment first with ``Monitor`` wrapper.
+  warnings.warn(
+Average reward over 100 episodes: 44.76

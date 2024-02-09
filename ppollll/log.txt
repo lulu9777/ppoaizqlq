@@ -1,0 +1,139 @@
+2023-10-20 11:43:05,083 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-20 14:18:42,082 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-20 15:04:50,533 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 00:07:04,511 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 02:46:09,589 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 03:13:28,405 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 03:35:11,674 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 04:16:20,235 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 05:37:16,709 数据转换完成，已保存到新的CSV文件。
+2023-10-21 06:09:56,415 数据转换完成，已保存到新的CSV文件。
+2023-10-21 06:27:12,971 数据转换完成，已保存到新的CSV文件。
+2023-10-21 07:02:48,249 数据转换完成，已保存到新的CSV文件。
+2023-10-21 08:04:23,572 数据转换完成，已保存到新的CSV文件。
+2023-10-21 11:38:49,519 数据转换完成，已保存到新的CSV文件。
+2023-10-21 11:49:59,401 数据转换完成，已保存到新的CSV文件。
+2023-10-21 12:43:49,316 数据转换完成，已保存到新的CSV文件。
+2023-10-22 07:02:59,296 数据转换完成，已保存到新的CSV文件。
+2023-10-22 11:53:49,781 数据转换完成，已保存到新的CSV文件。
+2023-10-23 00:16:39,723 数据转换完成，已保存到新的CSV文件。
+2023-10-23 01:13:21,374 数据转换完成，已保存到新的CSV文件。
+2023-10-23 03:49:14,565 数据转换完成，已保存到新的CSV文件。
+2023-10-23 04:11:02,214 数据转换完成，已保存到新的CSV文件。
+2023-10-23 04:29:21,204 数据转换完成，已保存到新的CSV文件。
+2023-10-23 04:38:17,367 数据转换完成，已保存到新的CSV文件。
+2023-10-23 07:02:57,850 数据转换完成，已保存到新的CSV文件。
+2023-10-23 10:31:28,784 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-23 11:14:45,225 ���ݻ�ȡ����ϴ��ɣ��ѱ��浽CSV�ļ���
+2023-10-23 13:25:21,258 数据获取和清洗完成，已保存到CSV文件。
+2023-10-24 06:44:36,490 数据获取和清洗完成，已保存到CSV文件。
+2023-10-24 07:12:27,548 数据获取和清洗完成，已保存到CSV文件。
+2023-12-14 19:20:47,158 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2edc93cd30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fac8ab28-96a3-4af9-b0ed-b711a883e682
+2023-12-14 19:20:47,166 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2edc93cf10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fac8ab28-96a3-4af9-b0ed-b711a883e682
+2023-12-14 19:20:47,167 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2edc9700a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/fac8ab28-96a3-4af9-b0ed-b711a883e682
+2023-12-14 19:21:20,551 数据获取和清洗完成，已保存到CSV文件。
+2023-12-14 19:32:06,780 数据获取和清洗完成，已保存到CSV文件。
+2023-12-14 19:38:57,876 数据获取和清洗完成，已保存到CSV文件。
+2023-12-15 07:06:36,500 数据获取和清洗完成，已保存到CSV文件。
+2023-12-16 07:06:34,964 数据获取和清洗完成，已保存到CSV文件。
+2023-12-17 07:06:44,403 数据获取和清洗完成，已保存到CSV文件。
+2023-12-18 07:06:38,588 数据获取和清洗完成，已保存到CSV文件。
+2023-12-19 07:06:37,972 数据获取和清洗完成，已保存到CSV文件。
+2023-12-20 05:01:28,666 数据获取和清洗完成，已保存到CSV文件。
+2023-12-20 05:13:58,771 数据获取和清洗完成，已保存到CSV文件。
+2023-12-20 05:35:21,306 数据获取和清洗完成，已保存到CSV文件。
+2023-12-20 05:52:35,977 数据获取和清洗完成，已保存到CSV文件。
+2023-12-20 06:02:09,513 数据获取和清洗完成，已保存到CSV文件。
+2023-12-20 07:06:33,074 数据获取和清洗完成，已保存到CSV文件。
+2023-12-21 07:06:38,790 数据获取和清洗完成，已保存到CSV文件。
+2023-12-22 07:06:37,218 数据获取和清洗完成，已保存到CSV文件。
+2023-12-23 07:06:37,199 数据获取和清洗完成，已保存到CSV文件。
+2023-12-24 07:06:39,106 数据获取和清洗完成，已保存到CSV文件。
+2023-12-25 07:06:30,356 数据获取和清洗完成，已保存到CSV文件。
+2023-12-26 07:06:36,403 数据获取和清洗完成，已保存到CSV文件。
+2023-12-27 07:06:34,595 数据获取和清洗完成，已保存到CSV文件。
+2023-12-28 07:06:31,541 数据获取和清洗完成，已保存到CSV文件。
+2023-12-29 07:06:36,649 数据获取和清洗完成，已保存到CSV文件。
+2023-12-30 07:06:30,584 数据获取和清洗完成，已保存到CSV文件。
+2023-12-31 04:46:47,834 数据获取和清洗完成，已保存到CSV文件。
+2023-12-31 07:06:30,490 数据获取和清洗完成，已保存到CSV文件。
+2024-01-01 07:06:31,253 数据获取和清洗完成，已保存到CSV文件。
+2024-01-01 14:01:18,868 数据获取和清洗完成，已保存到CSV文件。
+2024-01-01 18:08:07,227 数据获取和清洗完成，已保存到CSV文件。
+2024-01-01 19:36:13,661 数据获取和清洗完成，已保存到CSV文件。
+2024-01-02 07:06:26,246 数据获取和清洗完成，已保存到CSV文件。
+2024-01-03 07:06:29,411 数据获取和清洗完成，已保存到CSV文件。
+2024-01-04 07:05:59,633 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-04 07:06:32,274 数据获取和清洗完成，已保存到CSV文件。
+2024-01-05 07:05:57,696 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-05 07:06:29,609 数据获取和清洗完成，已保存到CSV文件。
+2024-01-06 07:05:57,366 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-06 07:06:30,164 数据获取和清洗完成，已保存到CSV文件。
+2024-01-07 07:05:57,215 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-07 07:06:35,846 数据获取和清洗完成，已保存到CSV文件。
+2024-01-08 07:06:04,652 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-08 07:06:42,256 数据获取和清洗完成，已保存到CSV文件。
+2024-01-09 07:05:58,305 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-09 07:06:30,833 数据获取和清洗完成，已保存到CSV文件。
+2024-01-10 07:06:01,481 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-10 07:06:34,583 数据获取和清洗完成，已保存到CSV文件。
+2024-01-11 07:06:01,361 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-11 07:06:35,434 数据获取和清洗完成，已保存到CSV文件。
+2024-01-12 07:06:02,848 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-12 07:06:39,609 数据获取和清洗完成，已保存到CSV文件。
+2024-01-13 07:06:02,272 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-13 07:06:40,668 数据获取和清洗完成，已保存到CSV文件。
+2024-01-14 07:06:01,753 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-14 07:06:44,379 数据获取和清洗完成，已保存到CSV文件。
+2024-01-15 07:05:59,999 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-15 07:06:37,431 数据获取和清洗完成，已保存到CSV文件。
+2024-01-16 07:05:57,840 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-16 07:06:30,215 数据获取和清洗完成，已保存到CSV文件。
+2024-01-17 07:05:56,780 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-17 07:06:28,957 数据获取和清洗完成，已保存到CSV文件。
+2024-01-18 07:05:58,011 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-18 07:06:32,084 数据获取和清洗完成，已保存到CSV文件。
+2024-01-19 07:05:57,584 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-19 07:06:35,565 数据获取和清洗完成，已保存到CSV文件。
+2024-01-20 07:05:59,775 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-20 07:06:57,251 数据获取和清洗完成，已保存到CSV文件。
+2024-01-21 07:05:58,256 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-21 07:06:41,931 数据获取和清洗完成，已保存到CSV文件。
+2024-01-22 07:05:56,588 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-22 07:06:59,864 数据获取和清洗完成，已保存到CSV文件。
+2024-01-23 07:05:57,461 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-23 07:06:30,336 数据获取和清洗完成，已保存到CSV文件。
+2024-01-24 07:05:58,892 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-24 07:06:31,465 数据获取和清洗完成，已保存到CSV文件。
+2024-01-25 07:05:59,737 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-25 07:06:33,701 数据获取和清洗完成，已保存到CSV文件。
+2024-01-26 07:06:00,494 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-26 07:06:33,642 数据获取和清洗完成，已保存到CSV文件。
+2024-01-27 07:05:59,327 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-27 07:06:33,426 数据获取和清洗完成，已保存到CSV文件。
+2024-01-28 07:06:00,346 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-28 07:06:41,651 数据获取和清洗完成，已保存到CSV文件。
+2024-01-29 07:06:00,668 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-29 07:06:37,129 数据获取和清洗完成，已保存到CSV文件。
+2024-01-30 07:05:59,607 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-30 07:06:32,306 数据获取和清洗完成，已保存到CSV文件。
+2024-01-31 07:05:57,079 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-31 07:06:30,994 数据获取和清洗完成，已保存到CSV文件。
+2024-02-01 07:05:59,305 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-01 07:06:32,682 数据获取和清洗完成，已保存到CSV文件。
+2024-02-02 07:05:59,795 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-02 07:06:32,427 数据获取和清洗完成，已保存到CSV文件。
+2024-02-03 07:06:02,009 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-03 07:06:36,262 数据获取和清洗完成，已保存到CSV文件。
+2024-02-04 07:05:57,740 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-04 07:06:38,268 数据获取和清洗完成，已保存到CSV文件。
+2024-02-05 07:05:57,212 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-05 07:06:32,821 数据获取和清洗完成，已保存到CSV文件。
+2024-02-06 07:05:58,200 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-06 07:06:30,208 数据获取和清洗完成，已保存到CSV文件。
+2024-02-07 07:06:00,239 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-07 07:06:34,679 数据获取和清洗完成，已保存到CSV文件。
+2024-02-08 07:06:00,112 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-08 07:06:34,943 数据获取和清洗完成，已保存到CSV文件。
+2024-02-09 07:05:58,821 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-09 07:06:31,993 数据获取和清洗完成，已保存到CSV文件。

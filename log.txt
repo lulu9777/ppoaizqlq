@@ -1,0 +1,170 @@
+2023-10-20 11:43:05,083 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-20 14:18:42,082 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-20 15:04:50,533 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 00:07:04,511 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 02:46:09,589 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 03:13:28,405 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 03:35:11,674 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 04:16:20,235 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-21 05:37:16,709 数据转换完成，已保存到新的CSV文件。
+2023-10-21 06:09:56,415 数据转换完成，已保存到新的CSV文件。
+2023-10-21 06:27:12,971 数据转换完成，已保存到新的CSV文件。
+2023-10-21 07:02:48,249 数据转换完成，已保存到新的CSV文件。
+2023-10-21 08:04:23,572 数据转换完成，已保存到新的CSV文件。
+2023-10-21 11:38:49,519 数据转换完成，已保存到新的CSV文件。
+2023-10-21 11:49:59,401 数据转换完成，已保存到新的CSV文件。
+2023-10-21 12:43:49,316 数据转换完成，已保存到新的CSV文件。
+2023-10-22 07:02:59,296 数据转换完成，已保存到新的CSV文件。
+2023-10-22 11:53:49,781 数据转换完成，已保存到新的CSV文件。
+2023-10-23 00:16:39,723 数据转换完成，已保存到新的CSV文件。
+2023-10-23 01:13:21,374 数据转换完成，已保存到新的CSV文件。
+2023-10-23 03:49:14,565 数据转换完成，已保存到新的CSV文件。
+2023-10-23 04:11:02,214 数据转换完成，已保存到新的CSV文件。
+2023-10-23 04:29:21,204 数据转换完成，已保存到新的CSV文件。
+2023-10-23 04:38:17,367 数据转换完成，已保存到新的CSV文件。
+2023-10-23 07:02:57,850 数据转换完成，已保存到新的CSV文件。
+2023-10-23 10:31:28,784 ����ת����ɣ��ѱ��浽�µ�CSV�ļ���
+2023-10-23 11:29:18,085 数据转换完成，已保存到新的CSV文件。
+2023-10-23 13:08:46,356 数据转换完成，已保存到新的CSV文件。
+2023-10-23 13:15:57,934 数据转换完成，已保存到新的CSV文件。
+2023-10-24 06:35:09,346 数据转换完成，已保存到新的CSV文件。
+2023-10-24 07:02:49,499 数据转换完成，已保存到新的CSV文件。
+2023-12-14 19:01:04,217 数据转换完成，已保存到新的CSV文件。
+2023-12-14 19:06:21,399 数据转换完成，已保存到新的CSV文件。
+2023-12-14 19:28:14,570 数据转换完成，已保存到新的CSV文件。
+2023-12-14 19:35:04,812 数据转换完成，已保存到新的CSV文件。
+2023-12-15 07:02:42,739 数据转换完成，已保存到新的CSV文件。
+2023-12-16 07:02:39,285 数据转换完成，已保存到新的CSV文件。
+2023-12-17 07:02:51,326 数据转换完成，已保存到新的CSV文件。
+2023-12-18 07:02:51,493 数据转换完成，已保存到新的CSV文件。
+2023-12-19 07:02:42,269 数据转换完成，已保存到新的CSV文件。
+2023-12-20 04:57:49,751 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:06:03,299 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:10:05,776 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:25:22,634 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:31:27,790 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:40:47,362 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:45:49,261 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:48:39,536 数据转换完成，已保存到新的CSV文件。
+2023-12-20 05:58:15,472 数据转换完成，已保存到新的CSV文件。
+2023-12-20 07:02:41,300 数据转换完成，已保存到新的CSV文件。
+2023-12-21 07:02:09,124 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2023-12-21 07:02:09,125 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2023-12-21 07:02:09,154 在获取网页内容时出现错误，这是第1次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2023-12-21 07:02:43,061 数据转换完成，已保存到新的CSV文件。
+2023-12-22 07:02:09,783 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2023-12-22 07:02:09,784 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2023-12-22 07:02:09,819 在获取网页内容时出现错误，这是第1次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2023-12-22 07:02:47,035 数据转换完成，已保存到新的CSV文件。
+2023-12-23 07:02:40,472 数据转换完成，已保存到新的CSV文件。
+2023-12-24 07:02:41,715 数据转换完成，已保存到新的CSV文件。
+2023-12-25 07:02:36,909 数据转换完成，已保存到新的CSV文件。
+2023-12-26 07:02:40,231 数据转换完成，已保存到新的CSV文件。
+2023-12-27 07:02:42,248 数据转换完成，已保存到新的CSV文件。
+2023-12-28 07:02:05,671 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2023-12-28 07:02:05,673 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2023-12-28 07:02:05,722 在获取网页内容时出现错误，这是第1次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2023-12-28 07:02:37,293 数据转换完成，已保存到新的CSV文件。
+2023-12-29 07:02:43,804 数据转换完成，已保存到新的CSV文件。
+2023-12-30 07:02:37,170 数据转换完成，已保存到新的CSV文件。
+2023-12-31 04:42:52,361 数据转换完成，已保存到新的CSV文件。
+2023-12-31 07:02:02,205 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2023-12-31 07:02:02,206 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2023-12-31 07:02:02,729 在获取网页内容时出现错误，这是第1次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2023-12-31 07:02:35,020 数据转换完成，已保存到新的CSV文件。
+2024-01-01 07:02:35,106 数据转换完成，已保存到新的CSV文件。
+2024-01-01 13:57:24,300 数据转换完成，已保存到新的CSV文件。
+2024-01-01 18:03:46,972 数据转换完成，已保存到新的CSV文件。
+2024-01-01 19:32:18,727 数据转换完成，已保存到新的CSV文件。
+2024-01-02 07:02:33,625 数据转换完成，已保存到新的CSV文件。
+2024-01-03 07:02:35,059 数据转换完成，已保存到新的CSV文件。
+2024-01-04 07:02:07,339 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-04 07:02:42,766 数据转换完成，已保存到新的CSV文件。
+2024-01-05 07:02:04,692 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-05 07:02:36,629 数据转换完成，已保存到新的CSV文件。
+2024-01-06 07:02:04,290 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-06 07:02:38,843 数据转换完成，已保存到新的CSV文件。
+2024-01-07 07:02:04,348 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-07 07:02:43,643 数据转换完成，已保存到新的CSV文件。
+2024-01-08 07:02:12,014 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-08 07:02:54,846 数据转换完成，已保存到新的CSV文件。
+2024-01-09 07:02:05,371 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-09 07:02:38,104 数据转换完成，已保存到新的CSV文件。
+2024-01-10 07:02:27,042 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-10 07:02:59,418 数据转换完成，已保存到新的CSV文件。
+2024-01-11 07:02:07,979 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-11 07:02:40,340 数据转换完成，已保存到新的CSV文件。
+2024-01-12 07:02:09,995 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-12 07:02:43,813 数据转换完成，已保存到新的CSV文件。
+2024-01-13 07:02:09,237 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-13 07:02:45,346 数据转换完成，已保存到新的CSV文件。
+2024-01-14 07:02:08,165 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-14 07:02:52,560 数据转换完成，已保存到新的CSV文件。
+2024-01-15 07:02:06,604 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-15 07:02:48,000 数据转换完成，已保存到新的CSV文件。
+2024-01-16 07:02:04,801 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-16 07:02:36,894 数据转换完成，已保存到新的CSV文件。
+2024-01-17 07:02:03,758 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-17 07:02:36,817 数据转换完成，已保存到新的CSV文件。
+2024-01-18 07:02:04,807 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-18 07:02:39,197 数据转换完成，已保存到新的CSV文件。
+2024-01-19 07:02:04,118 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2024-01-19 07:02:04,120 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2024-01-19 07:02:04,143 在获取网页内容时出现错误，这是第1次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2024-01-19 07:02:04,217 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-19 07:02:39,512 数据转换完成，已保存到新的CSV文件。
+2024-01-20 07:02:06,395 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-20 07:03:05,343 数据转换完成，已保存到新的CSV文件。
+2024-01-21 07:02:05,183 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-21 07:02:46,088 数据转换完成，已保存到新的CSV文件。
+2024-01-22 07:02:03,351 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-22 07:03:04,038 数据转换完成，已保存到新的CSV文件。
+2024-01-23 07:02:04,093 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2024-01-23 07:02:04,095 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2024-01-23 07:02:04,125 在获取网页内容时出现错误，这是第1次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2024-01-23 07:02:04,169 Exception managing firefox: error sending request for url (https://product-details.mozilla.org/1.0/firefox_versions.json): error trying to connect: tcp connect error: Network unreachable (os error 101)
+2024-01-23 07:02:04,170 Exception managing firefox: Not valid geckodriver version found for firefox 0
+2024-01-23 07:02:04,185 在获取网页内容时出现错误，这是第2次尝试: Message: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line
+
+2024-01-23 07:02:04,342 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (121.0.1); currently, geckodriver 0.34.0 is recommended for firefox 121.*, so it is advised to delete the driver in PATH and retry
+2024-01-23 07:02:40,213 数据转换完成，已保存到新的CSV文件。
+2024-01-24 07:02:24,264 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-24 07:02:55,566 数据转换完成，已保存到新的CSV文件。
+2024-01-25 07:02:07,147 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-25 07:02:41,447 数据转换完成，已保存到新的CSV文件。
+2024-01-26 07:02:07,286 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-26 07:02:41,164 数据转换完成，已保存到新的CSV文件。
+2024-01-27 07:02:06,552 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-27 07:02:42,123 数据转换完成，已保存到新的CSV文件。
+2024-01-28 07:02:07,220 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-28 07:02:46,799 数据转换完成，已保存到新的CSV文件。
+2024-01-29 07:02:07,273 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-29 07:02:47,344 数据转换完成，已保存到新的CSV文件。
+2024-01-30 07:02:06,642 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-30 07:02:41,078 数据转换完成，已保存到新的CSV文件。
+2024-01-31 07:02:04,090 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-01-31 07:02:39,477 数据转换完成，已保存到新的CSV文件。
+2024-02-01 07:02:06,376 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-01 07:02:42,001 数据转换完成，已保存到新的CSV文件。
+2024-02-02 07:02:06,502 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-02 07:02:40,733 数据转换完成，已保存到新的CSV文件。
+2024-02-03 07:02:08,653 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-03 07:02:43,458 数据转换完成，已保存到新的CSV文件。
+2024-02-04 07:02:04,471 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-04 07:02:42,646 数据转换完成，已保存到新的CSV文件。
+2024-02-05 07:02:04,209 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-05 07:02:43,476 数据转换完成，已保存到新的CSV文件。
+2024-02-06 07:02:05,322 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-06 07:02:40,037 数据转换完成，已保存到新的CSV文件。
+2024-02-07 07:02:26,338 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-07 07:02:59,965 数据转换完成，已保存到新的CSV文件。
+2024-02-08 07:02:07,010 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-08 07:02:44,532 数据转换完成，已保存到新的CSV文件。
+2024-02-09 07:02:05,778 The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry
+2024-02-09 07:02:39,633 数据转换完成，已保存到新的CSV文件。
